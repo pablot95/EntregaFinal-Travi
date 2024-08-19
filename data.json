@@ -1,0 +1,46 @@
+{
+    "productos": [
+        {
+        "id": 1,
+        "image": "./img/Azul.jpg",
+        "nombre": "Tiana mug Azul",
+        "description": "Tumbler marca Tiana color Azul",
+        "precio": 22000
+        },
+        {
+        "id": 2,
+        "image": "./img/Blanco.jpg",
+        "nombre": "Tiana mug Blanca",
+        "description": "Tumbler marca Tiana color Blanco",
+        "precio": 22000
+        },
+        {
+        "id": 3,
+        "image": "./img/Celeste.jpg",
+        "nombre": "Tiana mug Celeste",
+        "description": "Tumbler marca Tiana color Celeste",
+        "precio": 22000
+        },
+        {
+        "id": 4,
+        "image": "./img/Lila.jpg",
+        "nombre": "Tiana mug Lila",
+        "description": "Tumbler marca Tiana color lila",
+        "precio": 22000
+        },
+        {
+        "id": 5,
+        "image": "./img/Negro.jpg",
+        "nombre": "Tiana mug Negro",
+        "description": "Tumbler marca Tiana color Negro",
+        "precio": 22000
+        },
+        {
+        "id": 6,
+        "image": "./img/Verde.jpg",
+        "nombre": "Tiana mug Verde",
+        "description": "Tumbler marca Tiana color Verde",
+        "precio": 22000
+        }
+    ]
+}
